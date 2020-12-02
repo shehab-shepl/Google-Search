@@ -1,0 +1,62 @@
+.right{
+    top: 5px; 
+      right: 20px; 
+      position: absolute;
+  }
+
+.afterright{
+top: 5px; 
+    right: 100px; 
+    position: absolute;
+}
+
+.center-page{
+    top: 20%;
+    right: 27%;
+    
+    position: absolute;
+}
+
+.left{
+    left:10px;
+    position: absolute;
+}
+
+.after-left{
+    left:300px;
+    position: absolute;
+}
+
+.after-left-form{
+    top: 20%;
+    left:300px;
+    position: absolute;
+}
+
+.center{
+    top: 93%;
+    left:300px;
+    position: absolute;
+}
+
+.centerr{
+    left:300px;
+    position: absolute;
+}
+
+.center-page-image{
+    top: 50%;
+    right: 48%;
+    
+    position: absolute;
+}
+
+.background{
+background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(20).jpg");
+
+height: 100%; 
+
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
