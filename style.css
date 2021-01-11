@@ -46,8 +46,8 @@ top: 5px;
 
 .center-page-image{
     top: 50%;
-    right: 48%;
-    
+    right: 38%;
+    text-align: center;
     position: absolute;
 }
 
